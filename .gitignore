@@ -20,3 +20,13 @@ coverage/
 # IDE
 .vscode/
 .idea/
+# React Native
+MyAndroidApp/node_modules/
+MyAndroidApp/ios/Pods/
+MyAndroidApp/android/app/release/
+MyAndroidApp/android/.gradle/
+MyAndroidApp/android/.idea/
+MyAndroidApp/android/local.properties
+MyAndroidApp/.env
+MyAndroidApp/.env.*
+MyAndroidApp/.DS_Store
