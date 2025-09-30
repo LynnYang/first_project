@@ -1,0 +1,22 @@
+# OS/JDK
+.jdk/
+
+# Node / tooling
+node_modules/
+.npm/
+.DS_Store
+
+# Builds
+dist/
+build/
+.out/
+.next/
+.vite/
+coverage/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
